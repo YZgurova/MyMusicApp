@@ -1,0 +1,30 @@
+.appBg{
+
+    position: static;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vw;
+    background-size: cover;
+}
+
+.loginForm{
+    background-color: rgba(255,255,255,0.33);
+    box-shadow: 0px 8px 32px 0 rgba(0,0,255,0.3);
+    backdrop-filter: blur(3px);
+    padding: 0px 16px 16px 16px;
+    border-radius: 16px;
+}
+
+.socialLogin{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    color: white;
+    font-size: 24px;
+}
+
+.socialIcon {
+
+}
