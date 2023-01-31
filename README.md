@@ -1,5 +1,5 @@
 # MyMusicApp
-Application with Rest API, React, Amazon S3, Stripe
+Application with Rest API, React, Amazon S3 and Stripe \n
 This is app for creators of music. Here they can add their songs, collects likes and earn money when some user pay to listen creators song
 To start application you need docker and MySQL image,
 -start docker
