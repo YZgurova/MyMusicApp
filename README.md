@@ -7,6 +7,7 @@ To start application you need docker and MySQL image,
 -go to frontendd folder via terminal and type npm start
 
 Then you will have this app started
+
 ![image](https://user-images.githubusercontent.com/80620561/215762493-613c822f-a7b6-4951-b093-c5f1664cae7c.png)
 ![image](https://user-images.githubusercontent.com/80620561/215762684-776ca4ed-a453-42df-b3fd-26c755cb12be.png)
 ![image](https://user-images.githubusercontent.com/80620561/215762811-751d7f0c-de5c-4ce3-81f5-f7d09421ce96.png)
