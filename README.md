@@ -24,7 +24,7 @@ Those are songs which other creators are upload
 You can like it
 ![image](https://user-images.githubusercontent.com/80620561/215762883-ceef0a86-a0ee-4f6f-81ed-803b605ae545.png)
 
-You can buy them but before click pay, you must type at the top of table the sing id, because I can not handle this problem
+You can buy them but before click pay, you must type at the top of table the song id, because I can not handle this problem
 then type some email, the default test card number to pay with visa, some date after today and some three numbers
 ![image](https://user-images.githubusercontent.com/80620561/215762990-d3b617b1-2dd1-4cf8-a648-3dab91f5211c.png)
 ![image](https://user-images.githubusercontent.com/80620561/215763183-60b4f514-17b8-4ce3-b343-5438de3e5a25.png)
