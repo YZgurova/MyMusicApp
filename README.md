@@ -8,8 +8,11 @@ To start application you need docker and MySQL image,
 
 Then you will have this app started
 
+You can login
 ![image](https://user-images.githubusercontent.com/80620561/215762493-613c822f-a7b6-4951-b093-c5f1664cae7c.png)
+Register
 ![image](https://user-images.githubusercontent.com/80620561/215762684-776ca4ed-a453-42df-b3fd-26c755cb12be.png)
+Those are songs which other creators are upload
 ![image](https://user-images.githubusercontent.com/80620561/215762811-751d7f0c-de5c-4ce3-81f5-f7d09421ce96.png)
 ![image](https://user-images.githubusercontent.com/80620561/215762883-ceef0a86-a0ee-4f6f-81ed-803b605ae545.png)
 ![image](https://user-images.githubusercontent.com/80620561/215762990-d3b617b1-2dd1-4cf8-a648-3dab91f5211c.png)
